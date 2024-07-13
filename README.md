@@ -1,4 +1,4 @@
-# Documentation for `hudsnote` Script
+# Documentation for `hudsnote` Tool
 
 ## Overview
 
