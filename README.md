@@ -5,9 +5,9 @@
 1. [Overview](#overview)
 2. [Usefulness](#usefulness)
    - [Key Benefits](#key-benefits)
-   - [Application in Cybersecurity](#application-in-cybersecurity)
+   - [Application](#application)
      - [Threat Intelligence](#threat-intelligence)
-     - [Other Uses in Cybersecurity](#other-uses-in-cybersecurity)
+     - [Other Uses Cases](#other-uses-Cases)
 3. [Usage](#usage)
    - [Command-Line Arguments](#command-line-arguments)
    - [Running the Tool](#running-the-tool)
@@ -38,13 +38,13 @@ The `hudsnote` tool is designed to streamline data entry through a command-line 
 2. **Efficiency:** Speeds up the data collection process by automating the presentation of questions and the recording of responses.
 3. **Integration:** Outputs data in JSON format, which can be easily converted to other formats such as STIX or CSV, and subsequently integrated into CTI repositories for further analysis and action.
 
-### Application in Cybersecurity
+### Application
 
 #### Threat Intelligence
 
 When investigating cybersecurity incidents, having a structured and consistent method for collecting data is crucial. The `hudsnote` tool allows analysts to gather detailed information about incidents, such as alert names, timestamps, user details, and other relevant fields. This structured data can then be analyzed, correlated with other data sources, and used to build a comprehensive threat landscape.
 
-#### Other Uses in Cybersecurity
+#### Other Uses Cases
 
 Apart from threat intelligence, the `hudsnote` tool can be utilized in various other cybersecurity domains:
 
