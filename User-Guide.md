@@ -47,13 +47,13 @@ The script accepts the following command-line arguments:
 To run the script, use the following command:
 
 ```bash
-python hudsnote.py -s <source_input_file>
+.\hudsnote.exe -s <source_input_file>
 ```
 
 For example:
 
 ```bash
-python hudsnote.py -s questions.qb -d output.json -N 0.pool.ntp.org -L <license_token>
+.\hudsnote.exe -s questions.qb -d output.json -N 0.pool.ntp.org -L <license_token>
 ```
 
 ## User Guide
@@ -108,7 +108,7 @@ conclusion
 To start the data entry process, run the script with the required arguments. For example:
 
 ```bash
-python hudsnote.py -s questions.qb
+.\hudsnote.exe -s questions.qb
 ```
 
 ### Data Entry Process
@@ -168,4 +168,3 @@ While the `hudsnote` tool is highly effective, there are several ways it could b
 8. **Templates:** Including predefined templates for common data collection tasks to streamline setup for new users.
 9. **Integration with CTI Platforms:** Developing plugins or connectors for popular CTI platforms to facilitate seamless data transfer.
 
-Implementing these improvements could significantly enhance the functionality and user experience of the `hudsnote` tool, making it even more valuable for threat intelligence and other data collection tasks.
