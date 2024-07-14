@@ -1,5 +1,7 @@
 # Documentation for `hudsnote` Tool
 
+![logo](./intelligence-notes.png)
+
 ## Table of Contents
 
 1. [Overview](#overview)
