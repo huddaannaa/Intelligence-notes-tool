@@ -1,4 +1,3 @@
-```markdown
 # Documentation for `hudsnote` Tool
 
 ![logo](./intelligence-notes.png)
